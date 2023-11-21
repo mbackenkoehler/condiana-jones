@@ -1,0 +1,7 @@
+name: condiana-jones
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pyyaml
+  - tqdm
